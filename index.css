@@ -1,11 +1,15 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 .container {
     display: flex;
     justify-content: space-around;
-    width: 575px;
-    height: 385px;
     background-color: #1b244a;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    
 }
+
